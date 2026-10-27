@@ -16,9 +16,6 @@ This is not a "hello world" tutorial. Every topic explains:
 - **Trade-offs, anti-patterns, debugging, and architecture decisions** at a senior level.
 - **References** (official docs, papers, engineering blogs) at the end of every file.
 
-> The original syllabus lives in [`sql-and-data-systems-design.md`](./sql-and-data-systems-design.md).
-> The **SQL** section was intentionally left out for now (it will be a second part).
-
 ---
 
 ## How to use this book
